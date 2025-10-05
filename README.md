@@ -182,15 +182,30 @@ Order management microservice built with Spring Boot. Implements service layer a
 
 ### 📈 Areas of Expertise
 
-```text
-Network Infrastructure    ████████████████████  95%
-Routing & Switching       ███████████████████░  90%
-Security & Firewalls      ██████████████████░░  85%
-LAN/WAN Management        ███████████████████░  90%
-Network Automation        ████████████████░░░░  75%
-Technical Training        ████████████████████  95%
-Incident Management       ███████████████████░  90%
-```
+<div align="left">
+
+#### Network Infrastructure
+![Network Infrastructure](https://img.shields.io/badge/Expertise-95%25-2ea44f?style=for-the-badge&logo=cisco&logoColor=white)
+
+#### Routing & Switching  
+![Routing & Switching](https://img.shields.io/badge/Expertise-90%25-2ea44f?style=for-the-badge&logo=cisco&logoColor=white)
+
+#### Security & Firewalls
+![Security & Firewalls](https://img.shields.io/badge/Expertise-85%25-blue?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+
+#### LAN/WAN Management
+![LAN/WAN Management](https://img.shields.io/badge/Expertise-90%25-2ea44f?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+#### Network Automation
+![Network Automation](https://img.shields.io/badge/Expertise-75%25-orange?style=for-the-badge&logo=python&logoColor=white)
+
+#### Technical Training
+![Technical Training](https://img.shields.io/badge/Expertise-95%25-2ea44f?style=for-the-badge&logo=googleclassroom&logoColor=white)
+
+#### Incident Management
+![Incident Management](https://img.shields.io/badge/Expertise-90%25-2ea44f?style=for-the-badge&logo=servicenow&logoColor=white)
+
+</div>
 
 ---
 
