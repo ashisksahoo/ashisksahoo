@@ -67,7 +67,7 @@ I'm a dedicated IT professional with **4+ years of experience** in network opera
 
 #### Java Full Stack Development Projects
 
-##### 🔹 [Project01_JDBC_Student_CRUD](https://github.com/ashisksahoo/Project01_JDBC_Student_CRUD)
+##### 🔹 [Project_JDBC_Student_CRUD](https://github.com/ashisksahoo/Project01_JDBC_Student_CRUD)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -78,7 +78,7 @@ Student management system with full CRUD operations. Features Bean and DAO class
 
 ---
 
-##### 🔹 [Project02_Retail_Customer_Mgmt_CRUD](https://github.com/ashisksahoo/Project02_Retail_Customer_Mgmt_CRUD)
+##### 🔹 [Project_Retail_Customer_Mgmt_CRUD](https://github.com/ashisksahoo/Project02_Retail_Customer_Mgmt_CRUD)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-ED8B00?style=flat&logo=java&logoColor=white)
@@ -89,7 +89,7 @@ Retail customer management application for managing retail store customer detail
 
 ---
 
-##### 🔹 [Project03_Product_CRUD_with_Hibernate](https://github.com/ashisksahoo/Project03_Product_CRUD_with_Hibernate)
+##### 🔹 [Project_Product_CRUD_with_Hibernate](https://github.com/ashisksahoo/Project03_Product_CRUD_with_Hibernate)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
@@ -99,7 +99,7 @@ Product management system using Hibernate ORM. Store admin can create product ta
 
 ---
 
-##### 🔹 [Project04_Spring_Dependency_Injection](https://github.com/ashisksahoo/Project04_Spring_Dependency_Injection)
+##### 🔹 [Project_Spring_Dependency_Injection](https://github.com/ashisksahoo/Project04_Spring_Dependency_Injection)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
