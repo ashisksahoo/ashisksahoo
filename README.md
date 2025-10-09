@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a dedicated IT professional with **4+ years of experience** in network operations, technical support, and training delivery. Currently pursuing **CCIE Security Track** and passionate about building robust network infrastructures.
+I'm a dedicated IT professional with **4+ years of experience** in network operations, technical support, and training delivery. Currently pursuing **Advanced Networking & Security Training** and passionate about building robust network infrastructures.
 
 - 🔭 Currently working on: Advanced network security implementations and automation projects
-- 🌱 Learning: CCIE Security Track, Advanced Cisco technologies, Network Automation
-- 💼 Expertise: Routing, Switching, Network Security, FortiGate & Palo Alto Firewalls
+- 🌱 Learning: Advanced Networking and Security Training, Advanced Cisco technologies, Network Automation
+- 💼 Expertise: Routing, Switching, Network Security, Checkpoint, FortiGate & Palo Alto Firewalls
 - 📫 Reach me: ashissahoo991@gmail.com
 - ⚡ Fun fact: I transitioned from Mechanical Engineering to IT and never looked back!
 
@@ -33,9 +33,8 @@ I'm a dedicated IT professional with **4+ years of experience** in network opera
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Palo Alto](https://img.shields.io/badge/Palo_Alto-FF6600?style=for-the-badge&logoColor=white)
 
-- **Firewall Solutions:** Cisco ASA, FortiGate, Palo Alto Next-Gen Firewalls
+- **Firewall Solutions:** Cisco ASA, Checkpoint, FortiGate, Palo Alto Next-Gen Firewalls
 - **Security:** VPN Configuration, Access Control Lists (ACL), Network Security Policies
-- **Technologies:** Microwave & Motorola Applications
 
 #### Programming & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,7 +66,7 @@ I'm a dedicated IT professional with **4+ years of experience** in network opera
 
 #### Java Full Stack Development Projects
 
-##### 🔹 [Project_JDBC_Student_CRUD](https://github.com/ashisksahoo/Project01_JDBC_Student_CRUD)
+##### 🔹 [Project_JDBC_Student_CRUD](https://github.com/ashisksahoo/Project_JDBC_Student_CRUD)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -78,7 +77,7 @@ Student management system with full CRUD operations. Features Bean and DAO class
 
 ---
 
-##### 🔹 [Project_Retail_Customer_Mgmt_CRUD](https://github.com/ashisksahoo/Project02_Retail_Customer_Mgmt_CRUD)
+##### 🔹 [Project_Retail_Customer_Mgmt_CRUD](https://github.com/ashisksahoo/Project_Retail_Customer_Mgmt_CRUD)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-ED8B00?style=flat&logo=java&logoColor=white)
@@ -89,7 +88,7 @@ Retail customer management application for managing retail store customer detail
 
 ---
 
-##### 🔹 [Project_Product_CRUD_with_Hibernate](https://github.com/ashisksahoo/Project03_Product_CRUD_with_Hibernate)
+##### 🔹 [Project_Product_CRUD_with_Hibernate](https://github.com/ashisksahoo/Project_Product_CRUD_with_Hibernate)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
@@ -99,7 +98,7 @@ Product management system using Hibernate ORM. Store admin can create product ta
 
 ---
 
-##### 🔹 [Project_Spring_Dependency_Injection](https://github.com/ashisksahoo/Project04_Spring_Dependency_Injection)
+##### 🔹 [Project_Spring_Dependency_Injection](https://github.com/ashisksahoo/Project_Spring_Dependency_Injection)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
@@ -183,20 +182,20 @@ Order management microservice built with Spring Boot. Implements service layer a
 ### 📈 Areas of Expertise
 
 ```text
-Network Infrastructure    ████████████████████  95%
-Routing & Switching       ███████████████████░  90%
-Security & Firewalls      ██████████████████░░  85%
+Network Infrastructure    ███████████████████░  90%
+Routing & Switching       ██████████████████░░  85%
+Security & Firewalls      █████████████████░░░  80%
 LAN/WAN Management        ███████████████████░  90%
-Network Automation        ████████████████░░░░  75%
+Network Automation        █████████████████░░░  80%
 Technical Training        ████████████████████  95%
-Incident Management       ███████████████████░  90%
+Incident Management       ████████████████████  95%
 ```
 
 ---
 
 ### 🔥 Current Focus
 
-- 🎯 Completing CCIE Security Track certification
+- 🎯 Completing Advanced Networking & Security Training
 - 🚀 Building network automation scripts using Python
 - 📚 Exploring advanced wireless controller configurations
 - 💡 Contributing to open-source network tools and documentation
@@ -209,7 +208,6 @@ I'm always interested in networking opportunities, collaborations, and discussio
 
 - 💼 LinkedIn: [linkedin.com/in/sahoo-ashis](https://linkedin.com/in/sahoo-ashis)
 - 📧 Email: ashissahoo991@gmail.com
-- 📱 Phone: +91 8895186488
 - 📍 Location: Bangalore, Karnataka, India
 
 ---
