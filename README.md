@@ -3,7 +3,7 @@
 ## 🛡️ Network Security Engineer | Java Full Stack Developer | Technical Trainer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sahoo-ashis)
-[![Email](https://img.shields.io/badge/Email-ashissahoo991%40gmail.com-red?style=flat&logo=gmail)](mailto:ashissahoo991@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ashis.kumr.sahoo%40gmail.com-red?style=flat&logo=gmail)](mailto:ashis.kumr.sahoo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ashisksahoo-181717?style=flat&logo=github)](https://github.com/ashisksahoo)
 [![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Bangalore)
 
