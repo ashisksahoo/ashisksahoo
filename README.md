@@ -1,6 +1,6 @@
 # Hi there, I'm Ashis Kumar Sahoo! 👋
 
-## 🛡️ Network Security Engineer | Java Full Stack Developer | Technical Trainer
+## 🛡️ Network Security Engineer | Java Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sahoo-ashis)
 [![Email](https://img.shields.io/badge/Email-ashis.kumr.sahoo%40gmail.com-red?style=flat&logo=gmail)](mailto:ashis.kumr.sahoo@gmail.com)
